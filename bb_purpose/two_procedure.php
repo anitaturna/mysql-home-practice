@@ -62,7 +62,7 @@ if(isset($_POST['Delete_product'])){
             <input type="submit" name="add_submit" value="add_submit">
         </fieldset>
     </form>
-      
+      <br> <br>
     <table border="2">
          <thead>
             <tr>
@@ -83,7 +83,7 @@ if(isset($_POST['Delete_product'])){
             }
             ?>
          </tbody>
-    </table>
+    </table> <br>
     <form action="" method="post">
         <fieldset>
         Manufacture_id: <br>
